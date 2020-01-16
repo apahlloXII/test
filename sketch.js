@@ -34,6 +34,6 @@ void setup(){
 
   
   
-  int myAddingThing(int a, int b){
+  fucntion myAddingThing(int a, int b){
     return a + b;
   }
